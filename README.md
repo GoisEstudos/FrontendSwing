@@ -35,10 +35,12 @@ java -cp .:path/to/flatlaf-0.43.jar frontendswing.Main
 
 * CheckBoxTableHeaderRenderer.java: Customiza o cabeçalho da tabela com checkboxes.
   
-*TableHeaderAlignment.java: Alinha o texto nos cabeçalhos da tabela.
+* TableHeaderAlignment.java: Alinha o texto nos cabeçalhos da tabela.
 
-Capturas de Tela
-Adicione aqui capturas de tela da sua aplicação.
+Captura de Tela :
+<div> 
+ <img  alt="Imagem da aplicação"  width="650px" src="https://github.com/GoisEstudos/FrontendSwing/blob/dfe592dd86b9d3e9d106925e8f5aa4b5d1db9066/src/resource/Captura%20de%20tela%202024-07-13%20160209.png">
+</div>
 
 ## Contribuições
 Contribuições são bem-vindas! Por favor, abra uma issue ou envie um pull request.
